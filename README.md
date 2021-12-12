@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandeep-android-2000
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning c++, css3 and javascript 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : email me at mukherjeesandeep2000@gmail.com
 
 <!---
